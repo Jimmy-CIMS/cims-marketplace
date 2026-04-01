@@ -1,0 +1,40 @@
+{
+    "name": "cims-marketplace",
+    "owner": {
+        "name": "CIMS Global",
+        "email": "info@cims-global.com"
+    },
+    "metadata": {
+        "description": "A marketplace for plugins and extensions to enhance the capabilities of CIMS products",
+        "version": "1.0.0"
+    },
+    "plugins": [
+        {
+            "name": "r-coding-guide",
+            "source": "./plugins/r-coding-guide",
+            "description": "Standard R coding style and refactoring tools",
+            "version": "1.0.0",
+            "author": {
+                "name": "Innovative Biostatistics"
+            }
+        },
+        {
+            "name": "clinical-validation",
+            "source": "./plugins/clinical-validation",
+            "description": "Clinical data validation and quality checks",
+            "version": "1.0.0",
+            "author": {
+                "name": "Innovative Biostatistics"
+            }
+        },
+        {
+            "name": "oq-test-generator",
+            "source": "./plugins/oq-test-generator",
+            "description": "Generate OQ test cases for CRE system",
+            "version": "1.0.0",
+            "author": {
+                "name": "Innovative Biostatistics"
+            }
+        }
+    ]
+}
