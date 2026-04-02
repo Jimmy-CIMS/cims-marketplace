@@ -5,8 +5,7 @@
         "email": "info@cims-global.com"
     },
     "metadata": {
-        "description": "A marketplace for plugins and extensions to enhance the capabilities of CIMS products",
-        "version": "1.0.0"
+        "description": "A marketplace for plugins and extensions to enhance the capabilities of CIMS products"
     },
     "plugins": [
         {

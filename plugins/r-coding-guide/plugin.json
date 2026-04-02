@@ -1,6 +1,7 @@
 {
-  "name": "r-coding-guide",
-  "version": "1.0.0",
-  "owner": "Data Science Team",
-  "validated": true
+    "name": "r-coding-guide",
+    "author": {
+        "name": "Innovative Biostatistics"
+    },
+    "validated": true
 }
