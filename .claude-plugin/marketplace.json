@@ -34,6 +34,15 @@
             "author": {
                 "name": "Innovative Biostatistics"
             }
+        },
+        {
+            "name": "skill-4fun",
+            "source": "./plugins/skill-4fun",
+            "description": "A collection of fun and interactive skills to enhance user engagement",
+            "version": "1.0.0",
+            "author": {
+                "name": "Jimmy Chen"
+            }
         }
     ]
 }
