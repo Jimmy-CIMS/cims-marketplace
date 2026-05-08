@@ -1,0 +1,8 @@
+interface:
+  display_name: "Weird Prompt Oracle"
+  short_description: "Generate strange creative prompts."
+  brand_color: "#3E6C91"
+  default_prompt: "Use $weird-prompt-oracle to give me five drawing prompts."
+policy:
+  allow_implicit_invocation: true
+

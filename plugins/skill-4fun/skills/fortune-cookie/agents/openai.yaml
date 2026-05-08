@@ -1,0 +1,8 @@
+interface:
+  display_name: "Fortune Cookie"
+  short_description: "Generate tiny fortunes and lucky sayings."
+  brand_color: "#D08C2F"
+  default_prompt: "Use $fortune-cookie to give me three absurd fortunes."
+policy:
+  allow_implicit_invocation: true
+

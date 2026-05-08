@@ -1,0 +1,8 @@
+interface:
+  display_name: "Decision Oracle"
+  short_description: "Give playful decision guidance."
+  brand_color: "#5C6F99"
+  default_prompt: "Use $decision-oracle to help me choose between two weekend plans."
+policy:
+  allow_implicit_invocation: true
+

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Tarot Pull"
+  short_description: "Draw one tarot card for reflection."
+  brand_color: "#7B4FA3"
+  default_prompt: "Use $tarot-pull to draw a card for my day."
+policy:
+  allow_implicit_invocation: true
+

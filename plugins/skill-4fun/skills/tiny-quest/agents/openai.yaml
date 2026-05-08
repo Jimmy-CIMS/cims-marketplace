@@ -1,0 +1,8 @@
+interface:
+  display_name: "Tiny Quest"
+  short_description: "Create a 5-15 minute mini quest."
+  brand_color: "#4F8A3D"
+  default_prompt: "Use $tiny-quest to give me a quick reset quest."
+policy:
+  allow_implicit_invocation: true
+

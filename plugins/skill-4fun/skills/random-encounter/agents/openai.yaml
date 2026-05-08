@@ -1,0 +1,8 @@
+interface:
+  display_name: "Random Encounter"
+  short_description: "Create playable random encounters."
+  brand_color: "#B24B3A"
+  default_prompt: "Use $random-encounter to create a low-danger space encounter."
+policy:
+  allow_implicit_invocation: true
+

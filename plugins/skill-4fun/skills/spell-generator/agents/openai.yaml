@@ -1,0 +1,8 @@
+interface:
+  display_name: "Spell Generator"
+  short_description: "Create flavorful spells with costs."
+  brand_color: "#9A4D8F"
+  default_prompt: "Use $spell-generator to create three low-level archive spells."
+policy:
+  allow_implicit_invocation: true
+

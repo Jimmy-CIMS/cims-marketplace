@@ -1,0 +1,8 @@
+interface:
+  display_name: "NPC Generator"
+  short_description: "Create usable NPCs with hooks."
+  brand_color: "#8F5A3C"
+  default_prompt: "Use $npc-generator to create a suspicious fantasy shopkeeper."
+policy:
+  allow_implicit_invocation: true
+

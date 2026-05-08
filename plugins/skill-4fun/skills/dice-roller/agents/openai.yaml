@@ -1,0 +1,8 @@
+interface:
+  display_name: "Dice Roller"
+  short_description: "Roll tabletop dice with RPG notation."
+  brand_color: "#2F6F73"
+  default_prompt: "Use $dice-roller to roll 2d20 with advantage and add 3."
+policy:
+  allow_implicit_invocation: true
+

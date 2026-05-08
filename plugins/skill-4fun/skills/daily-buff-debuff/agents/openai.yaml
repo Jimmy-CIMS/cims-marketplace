@@ -1,0 +1,8 @@
+interface:
+  display_name: "Daily Buff Debuff"
+  short_description: "Generate a playful daily status."
+  brand_color: "#6E8B3D"
+  default_prompt: "Use $daily-buff-debuff to give me today's workday status."
+policy:
+  allow_implicit_invocation: true
+
